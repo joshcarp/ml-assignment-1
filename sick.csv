@@ -1,0 +1,7 @@
+Headache,Sore,Temperature,Cough,Diagnosis
+severe,mild,high,yes,flu
+no,severe,normal,yes,cold
+mild,mild,normal,yes,flu
+severe,severe,normal,yes,cold
+severe,severe,normal,yes,flu
+severe,severe,normal,yes,flu
