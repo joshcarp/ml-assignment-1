@@ -1,7 +1,7 @@
-Headache,Sore,Temperature,Cough,Diagnosis
-severe,mild,high,yes,flu
-no,severe,normal,yes,cold
-mild,mild,normal,yes,flu
-severe,severe,normal,yes,cold
-severe,severe,normal,yes,flu
-severe,severe,normal,yes,flu
+Headache,Sore,Temperature,Cough,Diagnosis,foobar
+severe,mild,high,yes,flu,1
+no,severe,normal,yes,cold,1
+mild,mild,normal,yes,flu,1
+severe,severe,normal,yes,cold,1
+severe,severe,normal,yes,flu,1
+severe,severe,normal,yes,flu,?
